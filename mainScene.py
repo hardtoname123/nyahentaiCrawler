@@ -4,8 +4,11 @@
 # author:niming
 # version 1.01
 import os,sys
-import tkinter as tk
-import tkinter.messagebox
+import nyahentai as nht
+import Tkinter as tk
+import tkMessageBox as mb
+
+
 version = 1.01
 
 mainScene = tk.Tk()
@@ -21,13 +24,13 @@ def startScene():
 	frame2 = tk.Frame(mainScene)
 
 
-	label1 = tk.Label(frame1, text = '请输入Tag:',bg = 'white', font=('Arial', 12), width=30, height=2)
+	label1 = tk.Label(frame1, text = '请输入Tag:', font=('Arial', 12), width=30, height=2)
 	label1.pack(side = 'left')
 	tagInput = tk.Entry(frame1 ,font = ('Arial',14), textvariable = stringVarTag)
 	tagInput.pack()
 
 
-	label2 = tk.Label(frame2, text = '请输入ID:',bg = 'white', font=('Arial', 12), width=30, height=2)
+	label2 = tk.Label(frame2, text = '请输入ID:', font=('Arial', 12), width=30, height=2)
 	label2.pack(side = 'left')
 	IDInput = tk.Entry(frame2, font = ('Arial',14), textvariable = stringVarID)
 	IDInput.pack()
@@ -41,13 +44,18 @@ def startScene():
 	mainScene.mainloop()
 
 def startPy():
-
+        
 	stringTag = stringVarTag.get()
 	stringID = stringVarID.get()
-	tkinter.messagebox.showinfo(title = '消息',message = '下载成功')
-
-	# label3 = tk.Label(mainScene, text = stringTag,bg = 'white', font=('Arial', 12), width=30, height=2)
-	# label3.pack()
+	if len(stringID) > 0:
+		nht.openIDPage(StringID)
+	elif len(stringTag) > 0:
+		nht.openArtistPage(stringTag)
+	
+	else:
+		pass
+	
+		
 	
 startScene()
 
