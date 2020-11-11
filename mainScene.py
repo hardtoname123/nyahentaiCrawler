@@ -14,7 +14,7 @@ version = 1.01
 mainScene = tk.Tk()
 stringVarTag = tk.StringVar()
 stringVarID = tk.StringVar()
-
+stringVarArtist = tk.StringVar()
 
 def startScene():
 	print("process run")
@@ -22,6 +22,7 @@ def startScene():
 	mainScene.title('helloworld')
 	frame1 = tk.Frame(mainScene)
 	frame2 = tk.Frame(mainScene)
+	frame3 = tk.Frame(mainScene)
 
 
 	label1 = tk.Label(frame1, text = '请输入Tag:', font=('Arial', 12), width=30, height=2)
@@ -34,9 +35,15 @@ def startScene():
 	label2.pack(side = 'left')
 	IDInput = tk.Entry(frame2, font = ('Arial',14), textvariable = stringVarID)
 	IDInput.pack()
+
+	label3 = tk.Label(frame3, text = '请输入Artist:', font=('Arial', 12), width=30, height=2)
+	label3.pack(side = 'left')
+	IDInput = tk.Entry(frame3, font = ('Arial',14), textvariable = stringVarArtist)
+	IDInput.pack()
+
 	frame1.pack()
 	frame2.pack()
-
+	frame3.pack()
 
 	btn = tk.Button(mainScene, text='start', command = startPy)
 	btn.pack()
@@ -47,13 +54,15 @@ def startPy():
         
 	stringTag = stringVarTag.get()
 	stringID = stringVarID.get()
-	if len(stringID) > 0:
-		nht.openIDPage(StringID)
-	elif len(stringTag) > 0:
-		nht.openArtistPage(stringTag)
+	stringArtist = stringVarArtist.get()
+	print(stringTag+','+stringID+','+stringArtist)
+	# if len(stringID) > 0:
+	# 	nht.openIDPage(StringID)
+	# elif len(stringTag) > 0:
+	# 	nht.openArtistPage(stringTag)
 	
-	else:
-		pass
+	# else:
+	# 	pass
 	
 		
 	
