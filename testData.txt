@@ -1,0 +1,393 @@
+<!--nyahentai.cc-->
+<!doctype html>
+<html lang="en" class="theme-black">
+<head>
+	<meta charset="utf-8" />
+  	<link rel="preconnect" href="//nyahentai.cc">
+	<link rel="preconnect" href="//static.nyahentai.pw" crossorigin>
+	<meta name="theme-color" content="#1f1f1f" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, viewport-fit=cover" />
+	<meta name="description" content="(喵绅士)Read or download 185 galleries with artist tamano kedama for free on NyaHentai, the best free hentai comic, doujinshi and manga reader." />
+	<meta name="keywords" content="tamano kedama hentai,tamano kedama manga,tamano kedama doujinshi,tamano kedama,doujinshi,manga,nyahentai,free doujinshi,free manga">
+	<title>Artist: tamano kedama - Page 1 &raquo; NyaHentai: Free Hentai Doujinshi And Manga</title>
+	<meta name="applicable-device" content="pc,mobile">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+	<meta name="robots" content="index, follow">
+	<link rel="icon" href="https://static.nyahentai.pw/img/favicon.ico">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700" />
+	<!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" />-->
+	<!--<link rel="stylesheet" href="https://static.nyahentai.pw/css/noto_sans.css" />-->
+	<link rel="stylesheet" href="https://static.nyahentai.pw/css/main_style.9bb9b703e601.css" />
+	<link rel="stylesheet" href="https://static.nyahentai.pw/css/style.css?v=0.0.11" />
+  	
+  	<meta http-equiv="x-dns-prefetch-control" content="on">
+  	<link rel="dns-prefetch" href="https://a.realsrv.com" />
+	<link rel="dns-prefetch" href="https://syndication.realsrv.com" />
+	<link rel="dns-prefetch" href="https://poweredby.jads.co" />
+	  	  	  	 
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- if remote jquery load failed -->
+    <script>   
+    if (!window.jQuery) {
+        document.write('<script src="https://static.nyahentai.pw/js/jquery.1.11.2.min.js"><\/script>');
+    }
+    </script>
+  	<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.5/lazysizes.min.js"></script>-->
+  	<script src="https://static.nyahentai.pw/js/lazysizes.4.1.5.min.js"></script>
+</head>
+<body>
+	<nav role="navigation">
+		<a class="logo" href="/">
+			<img src="https://static.nyahentai.pw/img/logo.650c98bbb08e_2.png" alt="logo" width="30" height="30">
+		</a>
+		<form role="search" action="/search/" class="search">
+			<input type="search" name="q" value="" autocapitalize="none" placeholder="NyaHentai.com" required />
+          	<span id="onlyenglish" title="Only English"><i class="fa fa-circle-o"></i> EN</span>
+			<button type="submit" class="btn btn-primary btn-square">
+				<i class="fa fa-search fa-lg"></i>
+			</button>
+		</form>
+		<button type="button" class="btn btn-secondary btn-square" id="hamburger">
+			<span class="line"></span>
+			<span class="line"></span>
+			<span class="line"></span>
+		</button>
+		<div class="collapse">
+			<ul class="menu left">
+				<li class="desktop "><a href="/random/">Random</a></li><li class="desktop "><a href="/tags/">Tags</a></li><li class="desktop "><a href="/parodies/">Parodies</a></li><li class="desktop "><a href="/characters/">Characters</a></li><li class="desktop "><a href="/artists/">Artists</a></li><li class="desktop "><a href="/groups/">Groups</a></li><li class="desktop "><a href="/rank/">Rank</a></li>              	<!--
+                <li class="desktop">
+					<a href="https://avdog2.xyz/rank" target="_blank" onclick="trackOutboundLink('https://avdog.xyz/rank'); return false;"><i style="color:#ed2553;" class="fa fa-flash"></i> AVDOG</a>
+				</li>-->
+                <li class="desktop">
+                    <a href="/search/q_C98"><i style="color:#ed2553;" class="fa fa-calendar"></i> C98</a>
+                </li>
+				<li class="dropdown">
+					<button class="btn btn-secondary btn-square" type="button" id="dropdown">
+						<i class="fa fa-chevron-down"></i>
+					</button>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="/random/">Random</a>
+						</li>
+						<li>
+							<a href="/tags/">Tags</a>
+						</li>
+						<li>
+							<a href="/parodies/">Parodies</a>
+						</li>
+						<li>
+							<a href="/characters/">Characters</a>
+						</li>
+						<li>
+							<a href="/artists/">Artists</a>
+						</li>
+						<li>
+							<a href="/groups/">Groups</a>
+						</li>
+                      	<li>
+							<a href="/rank/week">Rank</a>
+						</li>
+                      	<!--
+                        <li>
+							<a href="https://avdog2.xyz/rank" target="_blank" onclick="trackOutboundLink('https://avdog.xyz/rank'); return false;"><i style="color:#ed2553;" class="fa fa-flash"></i> AVDOG</a>
+						</li>-->
+                      	<li>
+                            <a href="/search/q_C98"><i style="color:#ed2553;" class="fa fa-calendar"></i> C98</a>
+                        </li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="menu right">
+              	<li>
+					<a href="https://ja.nyahentai.co/artist/tamano-kedama/">日本語</a>
+				</li>
+				<li>
+					<a href="https://zh.yyhentai.com/artist/tamano-kedama/">中文</a>
+				</li>
+              	<!--<li>
+					<a href="https://nyahentai.cc/artist/tamano-kedama/">English</a>
+				</li>-->
+              	<li>
+					<a href="https://nyahentai.cc/language/english/">English</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+	<div id="messages"></div>
+	<div id="content">
+		<!-- my-cats -->
+	      	<!--
+		<section class="container my-cat my-cat-header">
+			<div class="my-cat-l hidden-xs"></div>
+			<div class="my-cat-s visible-xs-block"></div>
+		</section>
+		-->
+			<h1>
+			<span class="type">Artist</span>: <span>tamano kedama</span> <span class="count">(185)</span>
+		</h1>
+		<div class="sort">
+			<a href="/artist/tamano-kedama/" class="active">Date</a><a href="/artist/tamano-kedama/popular">Popular</a><a href="/artist/tamano-kedama/english">English</a>		</div>
+<script>
+$(document).ready(function(){
+    $.post("/ajax/post/term_views/artist/tamano-kedama");
+});
+</script>
+
+		<div class="container index-container">
+								<div class="gallery" data-tags="1847 3735 6346 7958 14084 15294 18665 20905 27378 28811 33172 119565">
+				<a href="/g/332218/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1752724/thumb.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="(Akihabara Chou Doujinsai) Melonbooks Sexy Girls Collection in Summer Festival" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1752724/thumb.jpg" width="250" height="" alt="(Akihabara Chou Doujinsai) Melonbooks Sexy Girls Collection in Summer Festival" /></noscript>
+					<div class="caption">(Akihabara Chou Doujinsai) Melonbooks Sexy Girls Collection in Summer Festival</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="8010 12227 15294 15348 16228 17249 19018 19440 20905 21572 24102 27473 33172 36738 85295 90671 104227 105833">
+				<a href="/g/323389/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1699065/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1699065/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="8010 12227 15294 15348 16228 17249 19018 19440 20905 21572 24102 27473 33172 36738 85295 90671 104227 105833">
+				<a href="/g/323116/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1698394/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1698394/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="8010 12227 15294 15348 16228 17249 19018 19440 20905 21572 24102 33172 36738 85295 90671 104197 104227 105833">
+				<a href="/g/322930/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1697191/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Decensored] [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1697191/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Decensored] [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Decensored] [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="8010 12227 15294 15348 16228 17249 19018 19440 20905 21572 24102 27473 33172 36738 85295 90671 104227 105833">
+				<a href="/g/322764/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1695884/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1695884/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [English] [Marv, 1F47B] [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="4435 7256 8010 8378 10314 13720 15294 15658 16228 17249 19440 21572 24380 29013 29963 31880 33172 35762 36738 81707 85295 90671">
+				<a href="/g/321295/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1686760/thumb.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="(C97) [Kedama Gyuunyuu (Tamano Kedama)] Zenbu Kimi no Sei da. II  [Chinese] [寂月汉化组]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1686760/thumb.jpg" width="250" height="" alt="(C97) [Kedama Gyuunyuu (Tamano Kedama)] Zenbu Kimi no Sei da. II  [Chinese] [寂月汉化组]" /></noscript>
+					<div class="caption">(C97) [Kedama Gyuunyuu (Tamano Kedama)] Zenbu Kimi no Sei da. II  [Chinese] [寂月汉化组]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="8693 13720 15294 17249 19440 21283 29859 29963 31044 33172 35762 35763 36738 51399 81707 85295 90671">
+				<a href="/g/319970/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1680173/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="(COMITIA128) [Kedama Gyuunyuu (Tamano Kedama)] Papakatsu de Deatta Ko ga Inma kamo Shirenai [Chinese] [山樱汉化][无修正by活好的小学生]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1680173/thumb.png" width="250" height="" alt="(COMITIA128) [Kedama Gyuunyuu (Tamano Kedama)] Papakatsu de Deatta Ko ga Inma kamo Shirenai [Chinese] [山樱汉化][无修正by活好的小学生]" /></noscript>
+					<div class="caption">(COMITIA128) [Kedama Gyuunyuu (Tamano Kedama)] Papakatsu de Deatta Ko ga Inma kamo Shirenai [Chinese] [山樱汉化][无修正by活好的小学生]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="2153 6346 8010 15294 15348 16228 19440 21572 24201 25601 25949 29631 31044 33172 35763 36738 38066 51399 85295 88846 90671 104227 105833">
+				<a href="/g/312582/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1629907/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 2&3 [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1629907/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 2&3 [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 2&3 [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="370 15294 17249 19440 24201 29963 33173 35762 35763 81774 85295 104227">
+				<a href="/g/312130/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1630075/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Tamano Kedama] Dropout Cat Girl (COMIC X-EROS #66) [Chinese] [無邪気漢化組] [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1630075/thumb.png" width="250" height="" alt="[Tamano Kedama] Dropout Cat Girl (COMIC X-EROS #66) [Chinese] [無邪気漢化組] [Digital]" /></noscript>
+					<div class="caption">[Tamano Kedama] Dropout Cat Girl (COMIC X-EROS #66) [Chinese] [無邪気漢化組] [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="2153 6346 8010 15294 15348 15408 16228 19440 20905 24201 25601 25949 27473 31044 33172 35763 36738 38066 51399 88846 90671 104227 105833">
+				<a href="/g/312121/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1630031/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1630031/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="2153 6346 8010 13720 15294 15348 16228 19440 21572 24201 25601 25949 31044 33172 35763 36738 38066 51399 85295 88846 90671 104227 105833">
+				<a href="/g/311817/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1628768/thumb.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 4&5 [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1628768/thumb.jpg" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 4&5 [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 4&5 [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="2153 6346 8010 13720 15294 15348 16228 19440 21572 24201 25601 25949 31044 33172 35763 36738 38066 51399 85295 88846 90671 104227 105833">
+				<a href="/g/311816/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1628765/thumb.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 2&3 [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1628765/thumb.jpg" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 2&3 [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 2&3 [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="2153 6346 13720 15294 16228 19440 21572 24201 25601 29859 33172 35762 35763 36738 51399 90671 104227 105833">
+				<a href="/g/311762/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1628513/thumb.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 1 [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1628513/thumb.jpg" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 1 [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] Boku wa Chiisana Succubus no Shimobe 1 [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="6346 13720 15294 19440 33172 35762 104201">
+				<a href="/g/310314/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1621338/thumb.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Tamano Kedama] Drop Out Cat Girl" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1621338/thumb.jpg" width="250" height="" alt="[Tamano Kedama] Drop Out Cat Girl" /></noscript>
+					<div class="caption">[Tamano Kedama] Drop Out Cat Girl</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="814 1987 2232 3448 3619 4959 5569 6346 7518 9162 12890 14444 14715 15247 15294 15430 15437 16442 17102 18074 19540 20905 21320 21322 22983 23484 24201 26404 26476 27378 28790 29367 30317 30351 32151 32564 32839 33172 36239 37568 53314 53629 84278 86973 87735 90671 91297 100729 119565 121078">
+				<a href="/g/309716/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1617915/thumb.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="(C97) [Melonbooks (Various)] Melonbooks Sexy Girls Collection 2019 winter" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1617915/thumb.jpg" width="250" height="" alt="(C97) [Melonbooks (Various)] Melonbooks Sexy Girls Collection 2019 winter" /></noscript>
+					<div class="caption">(C97) [Melonbooks (Various)] Melonbooks Sexy Girls Collection 2019 winter</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="8010 15294 15348 16228 17249 19018 19440 20905 24102 29963 33172 35763 36738 90671 104227">
+				<a href="/g/308311/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1608423/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [Chinese] [山樱汉化] [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1608423/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [Chinese] [山樱汉化] [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [Chinese] [山樱汉化] [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="1310 12763 15294 17249 17773 18024 19440 29963 31880 32069 33172 35762 35763">
+				<a href="/g/307646/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1603904/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="(C85) [Dot Eito (Sawayaka Samehada, Tamano Kedama)] Yaminori Darkness (Touhou Project) [Chinese] [十的我全都要汉化组]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1603904/thumb.png" width="250" height="" alt="(C85) [Dot Eito (Sawayaka Samehada, Tamano Kedama)] Yaminori Darkness (Touhou Project) [Chinese] [十的我全都要汉化组]" /></noscript>
+					<div class="caption">(C85) [Dot Eito (Sawayaka Samehada, Tamano Kedama)] Yaminori Darkness (Touhou Project) [Chinese] [十的我全都要汉化组]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="2515 4435 7256 8010 8378 10314 15294 15658 16228 17249 19440 20282 24380 27553 29013 29963 31880 33172 35762 36738 81707 85295 90671">
+				<a href="/g/305286/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1589792/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] Zenbu Kimi no Sei da. II [Chinese] [山樱汉化] [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1589792/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] Zenbu Kimi no Sei da. II [Chinese] [山樱汉化] [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] Zenbu Kimi no Sei da. II [Chinese] [山樱汉化] [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="2515 4435 7256 8010 8378 10314 15294 15658 16228 17249 19440 24380 27553 29013 29963 31880 33172 35762 36738 81707 85295 90671">
+				<a href="/g/305211/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1589507/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] Zenbu Kimi no Sei da. II [Chinese] [山樱汉化] [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1589507/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] Zenbu Kimi no Sei da. II [Chinese] [山樱汉化] [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] Zenbu Kimi no Sei da. II [Chinese] [山樱汉化] [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="1033 2153 3666 6817 8010 8693 8739 13672 13720 15294 15348 15408 15658 16228 17249 18328 19440 20035 20120 20282 23237 24201 25614 25949 27530 27697 29631 29859 29963 31044 33173 35763 38066 51399 85288 85295 88846 104227 105833 107478">
+				<a href="/g/304632/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1586147/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Tamano Kedama] Boku wa Chiisana Succubus no Shimobe - I am a slave of a small succubus | 我是嬌小魅魔的忠實僕人 [Chinese] [Decensored]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1586147/thumb.png" width="250" height="" alt="[Tamano Kedama] Boku wa Chiisana Succubus no Shimobe - I am a slave of a small succubus | 我是嬌小魅魔的忠實僕人 [Chinese] [Decensored]" /></noscript>
+					<div class="caption">[Tamano Kedama] Boku wa Chiisana Succubus no Shimobe - I am a slave of a small succubus | 我是嬌小魅魔的忠實僕人 [Chinese] [Decensored]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="1033 2153 3666 8010 8739 10685 12227 13720 15294 15348 15408 15658 16228 17249 18328 19440 20035 20282 23237 24201 25614 25949 29631 29859 31044 33173 35763 38066 51399 88846 104227 105833">
+				<a href="/g/302808/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1576433/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Tamano Kedama] Boku wa Chiisana Succubus no Shimobe - I am a slave of a small succubus [English] {CapableScoutMan & bigk40k & Marv}" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1576433/thumb.png" width="250" height="" alt="[Tamano Kedama] Boku wa Chiisana Succubus no Shimobe - I am a slave of a small succubus [English] {CapableScoutMan & bigk40k & Marv}" /></noscript>
+					<div class="caption">[Tamano Kedama] Boku wa Chiisana Succubus no Shimobe - I am a slave of a small succubus [English] {CapableScoutMan & bigk40k & Marv}</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="2153 12227 13720 15294 15408 16228 17249 18328 19440 33173 51399 85288 104227">
+				<a href="/g/302709/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1576029/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Tamano Kedama] Eternity Charms - Chuu Chuu Drain 5 (Towako 6) [English] {CapableScoutMan & bigk40k}" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1576029/thumb.png" width="250" height="" alt="[Tamano Kedama] Eternity Charms - Chuu Chuu Drain 5 (Towako 6) [English] {CapableScoutMan & bigk40k}" /></noscript>
+					<div class="caption">[Tamano Kedama] Eternity Charms - Chuu Chuu Drain 5 (Towako 6) [English] {CapableScoutMan & bigk40k}</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="1207 1215 1315 1590 2153 2515 3666 3735 4566 5357 7155 7550 8010 8378 8516 9162 10314 10542 10988 11020 12227 13720 13989 14283 15294 15348 15408 16228 16533 16828 17249 19018 19175 19440 19954 20282 20525 20617 22079 22282 22942 23465 24190 24201 24380 24984 25949 26380 27081 27384 27473 27553 28346 29224 29347 29672 29859 30206 30555 31044 31285 31388 31997 32208 32484 32528 33173 35762 35763 51399 52826 72200 73202 81707 81774 85288 85295 86203 88846 92409 104227 105833 107478 109930">
+				<a href="/g/301713/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1570514/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Towako 4 [English] {CapableScoutMan & bigk40k} [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1570514/thumb.png" width="250" height="" alt="Towako 4 [English] {CapableScoutMan & bigk40k} [Digital]" /></noscript>
+					<div class="caption">Towako 4 [English] {CapableScoutMan & bigk40k} [Digital]</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="6346 15294 16228 18024 19440 20905 27378 27473 33172 36738">
+				<a href="/g/301276/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1569047/thumb.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[毛玉牛乳 (玉之けだま)]C91おまけ + C93おまけ" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1569047/thumb.jpg" width="250" height="" alt="[毛玉牛乳 (玉之けだま)]C91おまけ + C93おまけ" /></noscript>
+					<div class="caption">[毛玉牛乳 (玉之けだま)]C91おまけ + C93おまけ</div>
+				</a>
+			</div>
+								<div class="gallery" data-tags="6346 8010 15294 15348 16228 19018 19440 20905 24102 33172 36738 85295 90671 104227 105833">
+				<a href="/g/297088/" class="cover" style="padding:0 0 142% 0">
+					<img is="lazyload-image" class="lazyload" width="250" height="" data-src="https://t1.nyacdn.com/galleries/1549920/thumb.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [Digital]" />
+					<noscript><img src="https://t1.nyacdn.com/galleries/1549920/thumb.png" width="250" height="" alt="[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [Digital]" /></noscript>
+					<div class="caption">[Kedama Gyuunyuu (Tamano Kedama)] LiliSpa - Lilith Spa! [Digital]</div>
+				</a>
+			</div>
+				</div>
+		<section class="pagination ilist"><span class="page current"><a href="javascript:void(0);">1</a></span><span class="page"><a href="/artist/tamano-kedama/page/2" data-ci-pagination-page="2">2</a></span><span class="page"><a href="/artist/tamano-kedama/page/3" data-ci-pagination-page="3">3</a></span><span class="page"><a href="/artist/tamano-kedama/page/4" data-ci-pagination-page="4">4</a></span><span class="page"><a href="/artist/tamano-kedama/page/5" data-ci-pagination-page="5">5</a></span><span class="page"><a href="/artist/tamano-kedama/page/6" data-ci-pagination-page="6">6</a></span><span class="next"><a href="/artist/tamano-kedama/page/2" data-ci-pagination-page="2" rel="next"><i class="fa fa-chevron-right"></i></a></span><span class="last"><a href="/artist/tamano-kedama/page/8" data-ci-pagination-page="8"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a></span></section>
+    <script type="application/javascript">
+	(function() {
+	
+	    //version 1.0.0
+	
+	    var adConfig = {
+	    "ads_host": "a.realsrv.com",
+	    "syndication_host": "syndication.realsrv.com",
+	    "idzone": 3474845,
+	    "popup_fallback": false,
+	    "popup_force": false,
+	    "chrome_enabled": false,
+	    "new_tab": false,
+	    "frequency_period": 720,
+	    "frequency_count": 1,
+	    "trigger_method": 3,
+	    "trigger_class": "",
+	    "only_inline": false,
+	    "t_venor": false
+	};
+	
+	    if(!window.document.querySelectorAll){document.querySelectorAll=document.body.querySelectorAll=Object.querySelectorAll=function querySelectorAllPolyfill(r,c,i,j,a){var d=document,s=d.createStyleSheet();a=d.all;c=[];r=r.replace(/\[for\b/gi,"[htmlFor").split(",");for(i=r.length;i--;){s.addRule(r[i],"k:v");for(j=a.length;j--;){a[j].currentStyle.k&&c.push(a[j])}s.removeRule(0)}return c}}var popMagic={version:"1.0.0",cookie_name:"",url:"",config:{},open_count:0,top:null,browser:null,venor_loaded:false,venor:false,configTpl:{ads_host:"",syndication_host:"",idzone:"",frequency_period:720,frequency_count:1,trigger_method:1,trigger_class:"",popup_force:false,popup_fallback:false,chrome_enabled:true,new_tab:false,cat:"",tags:"",el:"",sub:"",sub2:"",sub3:"",only_inline:false,t_venor:false},init:function(config){if(typeof config.idzone==="undefined"||!config.idzone){return}for(var key in this.configTpl){if(!this.configTpl.hasOwnProperty(key)){continue}if(typeof config[key]!=="undefined"){this.config[key]=config[key]}else{this.config[key]=this.configTpl[key]}}if(typeof this.config.idzone==="undefined"||this.config.idzone===""){return}if(this.config.only_inline!==true){this.loadHosted()}this.addEventToElement(window,"load",this.preparePop)},getCountFromCookie:function(){var shownCookie=popMagic.getCookie(popMagic.cookie_name);var ctr=typeof shownCookie==="undefined"?0:parseInt(shownCookie);if(isNaN(ctr)){ctr=0}return ctr},shouldShow:function(){if(popMagic.open_count>=popMagic.config.frequency_count){return false}var ctr=popMagic.getCountFromCookie();popMagic.open_count=ctr;return!(ctr>=popMagic.config.frequency_count)},venorShouldShow:function(){return!popMagic.config.t_venor||popMagic.venor_loaded&&popMagic.venor==="0"},setAsOpened:function(){var new_ctr=1;if(popMagic.open_count!==0){new_ctr=popMagic.open_count+1}else{new_ctr=popMagic.getCountFromCookie()+1}popMagic.setCookie(popMagic.cookie_name,new_ctr,popMagic.config.frequency_period);if(new_ctr>=popMagic.config.frequency_count){popMagic.setCookie("nb-no-req-"+popMagic.config.idzone,true,popMagic.config.frequency_period)}},loadHosted:function(){var hostedScript=document.createElement("script");hostedScript.type="application/javascript";hostedScript.async=true;hostedScript.src="//"+this.config.ads_host+"/popunder1000.js";hostedScript.id="popmagicldr";for(var key in this.config){if(!this.config.hasOwnProperty(key)){continue}if(key==="ads_host"||key==="syndication_host"){continue}hostedScript.setAttribute("data-exo-"+key,this.config[key])}var insertAnchor=document.getElementsByTagName("body").item(0);if(insertAnchor.firstChild){insertAnchor.insertBefore(hostedScript,insertAnchor.firstChild)}else{insertAnchor.appendChild(hostedScript)}},preparePop:function(){if(typeof exoJsPop101==="object"&&exoJsPop101.hasOwnProperty("add")){return}popMagic.top=self;if(popMagic.top!==self){try{if(top.document.location.toString()){popMagic.top=top}}catch(err){}}popMagic.cookie_name="splashWeb-"+popMagic.config.idzone+"-42";if(popMagic.config.t_venor&&popMagic.shouldShow()){var xmlhttp=new XMLHttpRequest;xmlhttp.onreadystatechange=function(){if(xmlhttp.readyState==XMLHttpRequest.DONE){popMagic.venor_loaded=true;if(xmlhttp.status==200){popMagic.venor=xmlhttp.responseText}}};var protocol=document.location.protocol!=="https:"&&document.location.protocol!=="http:"?"https:":document.location.protocol;xmlhttp.open("GET",protocol+"//"+popMagic.config.syndication_host+"/venor.php",true);try{xmlhttp.send()}catch(error){popMagic.venor_loaded=true}}popMagic.buildUrl();popMagic.browser=popMagic.browserDetector.detectBrowser(navigator.userAgent);if(!popMagic.config.chrome_enabled&&(popMagic.browser.name==="chrome"||popMagic.browser.name==="crios")){return}var popMethod=popMagic.getPopMethod(popMagic.browser);popMagic.addEvent("click",popMethod)},getPopMethod:function(browserInfo){if(popMagic.config.popup_force){return popMagic.methods.popup}if(popMagic.config.popup_fallback&&browserInfo.name==="chrome"&&browserInfo.version>=68&&!browserInfo.isMobile){return popMagic.methods.popup}if(browserInfo.isMobile){return popMagic.methods.default}if(browserInfo.name==="chrome"){return popMagic.methods.chromeTab}return popMagic.methods.default},buildUrl:function(){var protocol=document.location.protocol!=="https:"&&document.location.protocol!=="http:"?"https:":document.location.protocol;var p=top===self?document.URL:document.referrer;var script_info={type:"inline",name:"popMagic",ver:this.version};var encodeScriptInfo=function(script_info){var result=script_info["type"]+"|"+script_info["name"]+"|"+script_info["ver"];return encodeURIComponent(btoa(result))};this.url=protocol+"//"+this.config.syndication_host+"/splash.php"+"?cat="+this.config.cat+"&idzone="+this.config.idzone+"&type=8"+"&p="+encodeURIComponent(p)+"&sub="+this.config.sub+(this.config.sub2!==""?"&sub2="+this.config.sub2:"")+(this.config.sub3!==""?"&sub3="+this.config.sub3:"")+"&block=1"+"&el="+this.config.el+"&tags="+this.config.tags+"&scr_info="+encodeScriptInfo(script_info)},addEventToElement:function(obj,type,fn){if(obj.addEventListener){obj.addEventListener(type,fn,false)}else if(obj.attachEvent){obj["e"+type+fn]=fn;obj[type+fn]=function(){obj["e"+type+fn](window.event)};obj.attachEvent("on"+type,obj[type+fn])}else{obj["on"+type]=obj["e"+type+fn]}},addEvent:function(type,fn){var targetElements;if(popMagic.config.trigger_method=="3"){targetElements=document.querySelectorAll("a");for(i=0;i<targetElements.length;i++){popMagic.addEventToElement(targetElements[i],type,fn)}return}if(popMagic.config.trigger_method=="2"&&popMagic.config.trigger_method!=""){var trigger_classes;var trigger_classes_final=[];if(popMagic.config.trigger_class.indexOf(",")===-1){trigger_classes=popMagic.config.trigger_class.split(" ")}else{var trimmed_trigger_classes=popMagic.config.trigger_class.replace(/\s/g,"");trigger_classes=trimmed_trigger_classes.split(",")}for(var i=0;i<trigger_classes.length;i++){if(trigger_classes[i]!==""){trigger_classes_final.push("."+trigger_classes[i])}}targetElements=document.querySelectorAll(trigger_classes_final.join(", "));for(i=0;i<targetElements.length;i++){popMagic.addEventToElement(targetElements[i],type,fn)}return}popMagic.addEventToElement(document,type,fn)},setCookie:function(name,value,ttl_minutes){var now_date=new Date;now_date.setMinutes(now_date.getMinutes()+parseInt(ttl_minutes));var c_value=encodeURIComponent(value)+"; expires="+now_date.toUTCString()+"; path=/";document.cookie=name+"="+c_value},getCookie:function(name){var i,x,y,cookiesArray=document.cookie.split(";");for(i=0;i<cookiesArray.length;i++){x=cookiesArray[i].substr(0,cookiesArray[i].indexOf("="));y=cookiesArray[i].substr(cookiesArray[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x===name){return decodeURIComponent(y)}}},randStr:function(length,possibleChars){var text="";var possible=possibleChars||"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";for(var i=0;i<length;i++){text+=possible.charAt(Math.floor(Math.random()*possible.length))}return text},isValidUserEvent:function(event){if("isTrusted"in event&&event.isTrusted&&popMagic.browser.name!=="ie"&&popMagic.browser.name!=="safari"){return true}else{return event.screenX!=0&&event.screenY!=0}},isValidHref:function(href){if(typeof href==="undefined"||href==""){return false}var empty_ref=/\s?javascript\s?:/i;return!empty_ref.test(href)},findLinkToOpen:function(clickedElement){var target=clickedElement;var location=false;try{var breakCtr=0;while(breakCtr<20&&!target.getAttribute("href")&&target!==document&&target.nodeName.toLowerCase()!=="html"){target=target.parentNode;breakCtr++}var elementTargetAttr=target.getAttribute("target");if(!elementTargetAttr||elementTargetAttr.indexOf("_blank")===-1){location=target.getAttribute("href")}}catch(err){}if(!popMagic.isValidHref(location)){location=false}return location||window.location.href},getPuId:function(){return"ok_"+Math.floor(89999999*Math.random()+1e7)},browserDetector:{browserDefinitions:[["firefox",/Firefox\/([0-9.]+)(?:\s|$)/],["opera",/Opera\/([0-9.]+)(?:\s|$)/],["opera",/OPR\/([0-9.]+)(:?\s|$)$/],["edge",/Edg(?:e|)\/([0-9._]+)/],["ie",/Trident\/7\.0.*rv:([0-9.]+)\).*Gecko$/],["ie",/MSIE\s([0-9.]+);.*Trident\/[4-7].0/],["ie",/MSIE\s(7\.0)/],["safari",/Version\/([0-9._]+).*Safari/],["chrome",/(?!Chrom.*Edg(?:e|))Chrom(?:e|ium)\/([0-9.]+)(:?\s|$)/],["chrome",/(?!Chrom.*OPR)Chrom(?:e|ium)\/([0-9.]+)(:?\s|$)/],["bb10",/BB10;\sTouch.*Version\/([0-9.]+)/],["android",/Android\s([0-9.]+)/],["ios",/Version\/([0-9._]+).*Mobile.*Safari.*/],["yandexbrowser",/YaBrowser\/([0-9._]+)/],["crios",/CriOS\/([0-9.]+)(:?\s|$)/]],detectBrowser:function(userAgent){var isMobile=userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile|WebOS|Windows Phone/i);for(var i in this.browserDefinitions){var definition=this.browserDefinitions[i];if(definition[1].test(userAgent)){var match=definition[1].exec(userAgent);var version=match&&match[1].split(/[._]/).slice(0,3);var versionTails=Array.prototype.slice.call(version,1).join("")||"0";if(version&&version.length<3){Array.prototype.push.apply(version,version.length===1?[0,0]:[0])}return{name:definition[0],version:version.join("."),versionNumber:parseFloat(version[0]+"."+versionTails),isMobile:isMobile}}}return{name:"other",version:"1.0",versionNumber:1,isMobile:isMobile}}},methods:{default:function(triggeredEvent){if(!popMagic.shouldShow()||!popMagic.venorShouldShow()||!popMagic.isValidUserEvent(triggeredEvent))return true;var clickedElement=triggeredEvent.target||triggeredEvent.srcElement;var href=popMagic.findLinkToOpen(clickedElement);window.open(href,"_blank");popMagic.setAsOpened();popMagic.top.document.location=popMagic.url;if(typeof triggeredEvent.preventDefault!=="undefined"){triggeredEvent.preventDefault();triggeredEvent.stopPropagation()}return true},chromeTab:function(event){if(!popMagic.shouldShow()||!popMagic.venorShouldShow()||!popMagic.isValidUserEvent(event))return true;if(typeof event.preventDefault!=="undefined"){event.preventDefault();event.stopPropagation()}else{return true}var a=top.window.document.createElement("a");var target=event.target||event.srcElement;a.href=popMagic.findLinkToOpen(target);document.getElementsByTagName("body")[0].appendChild(a);var e=new MouseEvent("click",{bubbles:true,cancelable:true,view:window,screenX:0,screenY:0,clientX:0,clientY:0,ctrlKey:true,altKey:false,shiftKey:false,metaKey:true,button:0});e.preventDefault=undefined;a.dispatchEvent(e);a.parentNode.removeChild(a);window.open(popMagic.url,"_self");popMagic.setAsOpened()},popup:function(triggeredEvent){if(!popMagic.shouldShow()||!popMagic.venorShouldShow()||!popMagic.isValidUserEvent(triggeredEvent))return true;var winOptions="";if(popMagic.config.popup_fallback&&!popMagic.config.popup_force){var height=Math.max(Math.round(window.innerHeight*.8),300);var width=Math.max(Math.round(window.innerWidth*.7),300);var top=window.screenY+100;var left=window.screenX+100;winOptions="menubar=1,resizable=1,width="+width+",height="+height+",top="+top+",left="+left}var prePopUrl=document.location.href;var popWin=window.open(prePopUrl,popMagic.getPuId(),winOptions);setTimeout(function(){popWin.location.href=popMagic.url},200);popMagic.setAsOpened();if(typeof triggeredEvent.preventDefault!=="undefined"){triggeredEvent.preventDefault();triggeredEvent.stopPropagation()}}}};    popMagic.init(adConfig);
+	})();
+	</script>
+
+	</div><!-- #content -->
+	<!-- my-cats -->
+	<!--
+	<section class="container my-cat my-cat-footer">
+		<div class="my-cat-l hidden-xs">
+		</div>
+		<div class="my-cat-s visible-xs-block">
+		</div>
+	</section>
+	-->
+	<div id="footer">
+		<div>
+			<div>nyahentai.cc © 2020</div>
+			<div><a href="/advertising/">AD</a> | <a href="/privacy/">Privacy Policy</a> | <!--<a href="/contact/">Contact Us</a> |--><a href="/dmca/">DMCA</a> | <a href="https://erocool.net/">Ero</a>-<a href="https://joyhentai.net/">Joy</a></div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+	<script src="https://static.nyahentai.pw/js/main.js?v=0.0.08"></script>
+	<!-- check cat -->
+	<script src="https://static.nyahentai.pw/js/juicyads_trafficjunky_ads_ad_zone_ad_box_adview_pic_cpc_cpm_cpa_cps_cpt_aff_guanggao_gg_click_advertising.amazon.com_exoclick.com_exosrv.com_alimama.cn_c.baidu.com_adsbygoogle_popAds.js"></script>
+	<script src="https://static.nyahentai.pw/js/check_cat.js?v=0.0.10"></script>
+	<div style="display: none;">
+    		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134953920-21"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-134953920-21');
+		</script>
+	      	<script>
+        var trackOutboundLink = function(url) {
+            var redirectTriggered = false;
+            gtag('event', 'click', {
+                'event_category': 'outbound',
+                'event_label': url,
+                'transport_type': 'beacon',
+                'event_callback': function(){
+                    redirectTriggered = true;
+                    document.location = url;
+                }
+            });
+            setTimeout(function() {
+                if (!redirectTriggered) {
+                    document.location = url;
+                }
+            }, 1000);
+        }
+        </script>
+	</div>
+</body>
+</html>
